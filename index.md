@@ -1,4 +1,1 @@
----
-title: Welcome to my blog
----
-
+这里是 wjh 的博客。
